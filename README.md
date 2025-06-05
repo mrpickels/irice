@@ -1,0 +1,2 @@
+# irice
+admobs
